@@ -46,3 +46,5 @@ Datapacks (Vanilla Tweaks):
 
 Gamerules:
 1. players_sleeping_percentage 0
+
+Worldborder is 5000.
