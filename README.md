@@ -1,5 +1,7 @@
 # Samohi SMP
 
+see [rules](./rules.md)
+
 NixOS Configuration for Samohi SMP.
 
 Minecraft 26.3 Fabric (0.19.5).
