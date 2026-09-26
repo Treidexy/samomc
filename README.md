@@ -30,7 +30,7 @@ Other mods:
 6. https://modrinth.com/mod/blossomtpa
 7. https://modrinth.com/mod/blossomback
 8. https://modrinth.com/mod/blossompvp
-9. https://modrinth.com/mod/simple-player-trades
+9. ~~https://modrinth.com/mod/simple-player-trades~~
 
 Datapacks (Vanilla Tweaks):
 1. player head drops
