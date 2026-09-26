@@ -8,7 +8,7 @@
 
 1. No griefing, stealing, killing etc
 2. No PVP unless both parties consent (use `/pvp`)
-3. No scamming (use `/trade`)
+3. No scamming ~~(use `/trade`)~~
 
 ## Space
 
@@ -20,7 +20,7 @@ The Samohi SMP runs Minecraft 26.3 (Java & Bedrock) on Fabric with optimization 
 
 Here are some mods/datapacks that DO alter gameplay:
 
-1. Simple Player Trades -- for fair trading
+1. ~~Simple Player Trades -- for fair trading~~
 2. `/tpa`, `/back` -- for easy
 3. `/pvp` -- to consent or unconsent to pvp
 4. players_sleeping_percentage 0
