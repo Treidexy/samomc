@@ -14,11 +14,12 @@ Optimization mods (dont affect gameplay):
 5. https://modrinth.com/mod/vmp-fabric
 6. https://modrinth.com/mod/c2me-fabric
 7. https://modrinth.com/mod/packet-fixer
-8. https://modrinth.com/mod/zfastnoise
-9. https://modrinth.com/mod/disable-portal-checks
-10. https://modrinth.com/mod/railoptimization
-11. https://modrinth.com/mod/spark
-12. https://modrinth.com/mod/quick-pack
+8. https://modrinth.com/mod/zconfig
+9. https://modrinth.com/mod/zfastnoise
+10. https://modrinth.com/mod/disable-portal-checks
+11. https://modrinth.com/mod/railoptimization
+12. https://modrinth.com/mod/spark
+13. https://modrinth.com/mod/quick-pack
 
 Other mods:
 1. https://modrinth.com/plugin/geyser
