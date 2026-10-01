@@ -32,7 +32,9 @@ Other mods:
 8. https://modrinth.com/mod/blossompvp
 9. https://modrinth.com/mod/advanced-netherite
 10. https://modrinth.com/datapack/elytra-armor
-11. ~~https://modrinth.com/mod/simple-player-trades~~
+11. https://modrinth.com/datapack/ketkets-player-shops
+12. https://modrinth.com/mod/no-chat-reports
+13. ~~https://modrinth.com/mod/simple-player-trades~~
 
 Datapacks (Vanilla Tweaks):
 1. player head drops
