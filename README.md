@@ -30,22 +30,32 @@ Other mods:
 6. https://modrinth.com/mod/blossomtpa
 7. https://modrinth.com/mod/blossomback
 8. https://modrinth.com/mod/blossompvp
-9. ~~https://modrinth.com/mod/simple-player-trades~~
+9. https://modrinth.com/mod/advanced-netherite
+10. https://modrinth.com/datapack/elytra-armor
+11. ~~https://modrinth.com/mod/simple-player-trades~~
 
 Datapacks (Vanilla Tweaks):
 1. player head drops
-2. double shulker shells
-3. unloack all recipes
-4. anti-endermen grief
-5. afk dispaly
-6. wandering trader announcements
-7. villager death messages
-8. universal dyeing
-9. unpackable ice
-10. unpackable wool
-11. blackstone cobblestone
-12. straight to shapeless
-13. copper powered rails
+2. chunk loaders
+3. double shulker shells
+4. fast leaf decay
+5. storm channeling
+6. timber
+7. unloack all recipes
+8. anti-endermen grief
+9. confetti creepers
+10. afk dispaly
+11. track raw statistics
+13. villager death messages
+14. wandering trader announcements
+15. back to blocks
+16. copper powered rails
+17. sandstone dyeing
+18. universal dyeing
+19. straight to shapeless
+20. blackstone cobblestone
+21. unpackable ice
+22. unpackable wool
 
 Gamerules:
 1. players_sleeping_percentage 0
