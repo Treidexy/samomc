@@ -25,16 +25,13 @@ Other mods:
 1. https://modrinth.com/plugin/geyser
 2. https://modrinth.com/mod/floodgate
 3. https://modrinth.com/plugin/luckperms
-4. ~~https://modrinth.com/plugin/discordsrv~~
-5. https://modrinth.com/mod/blossomlib
-6. https://modrinth.com/mod/blossomtpa
-7. https://modrinth.com/mod/blossomback
-8. https://modrinth.com/mod/blossompvp
-9. https://modrinth.com/mod/advanced-netherite
-10. https://modrinth.com/datapack/elytra-armor
-11. https://modrinth.com/datapack/ketkets-player-shops
-12. https://modrinth.com/mod/no-chat-reports
-13. ~~https://modrinth.com/mod/simple-player-trades~~
+4. https://modrinth.com/mod/blossomlib
+5. https://modrinth.com/mod/blossomtpa
+6. https://modrinth.com/mod/blossomback
+7. https://modrinth.com/mod/blossompvp
+9. https://modrinth.com/datapack/elytra-armor
+10. https://modrinth.com/datapack/ketkets-player-shops
+11. https://modrinth.com/mod/no-chat-reports
 
 Datapacks (Vanilla Tweaks):
 1. player head drops
@@ -58,6 +55,9 @@ Datapacks (Vanilla Tweaks):
 20. blackstone cobblestone
 21. unpackable ice
 22. unpackable wool
+
+Other datapacks:
+1. https://modrinth.com/datapack/more-piglin-safe-armor
 
 Gamerules:
 1. players_sleeping_percentage 0
