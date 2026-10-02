@@ -20,16 +20,19 @@ The Samohi SMP runs Minecraft 26.3 (Java & Bedrock) on Fabric with optimization 
 
 Here are some mods/datapacks that DO alter gameplay:
 
-1. ~~Simple Player Trades -- for fair trading~~
-2. `/tpa`, `/back` -- for easy
-3. `/pvp` -- to consent or unconsent to pvp
-4. players_sleeping_percentage 0
-5. anti-endermen grief
-6. villager death messages
-7. copper powered rails
-8. double shulker shells
-9. straight to shapeless
-10. universal dyeing
+1. `/tpa`, `/back` -- for easy
+2. `/pvp` -- to consent or unconsent to pvp
+3. players_sleeping_percentage 0
+4. timber -- cut down entire trees at once (hold shift to disable)
+5. armored elytra
+6. more piglin safe armor -- netherite doesnt aggro piglins
+7. chunk loaders -- drop nether star on loadstone
+8. storm channeling -- summon thunderstorm by trident up in air (uses a lot of duribility)
+9. villager death messages
+10. copper powered rails
+11. double shulker shells
+12. straight to shapeless
+13. universal dyeing
 
 For a complete list see https://github.com/Treidexy/samomc/blob/main/README.md
 
