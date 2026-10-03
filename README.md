@@ -61,5 +61,6 @@ Other datapacks:
 
 Gamerules:
 1. players_sleeping_percentage 0
+2. elytra_movement_check false
 
 Worldborder is 5000.
