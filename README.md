@@ -31,7 +31,6 @@ Other mods:
 6. https://modrinth.com/mod/blossomback
 7. https://modrinth.com/mod/blossompvp
 9. https://modrinth.com/datapack/elytra-armor
-10. https://modrinth.com/datapack/ketkets-player-shops
 11. https://modrinth.com/mod/no-chat-reports
 
 Datapacks (Vanilla Tweaks):
@@ -59,6 +58,14 @@ Datapacks (Vanilla Tweaks):
 
 Other datapacks:
 1. https://modrinth.com/datapack/more-piglin-safe-armor
+2. https://modrinth.com/datapack/quick-shulker-boxes
+4. https://modrinth.com/datapack/undyingrefill
+5. https://modrinth.com/datapack/ketkets-better-cauldrons
+6. https://modrinth.com/datapack/better-hanging-signs
+7. https://modrinth.com/datapack/stackraft
+8. https://modrinth.com/datapack/ketkets-mannequins
+9. https://modrinth.com/datapack/ketkets-displaycases
+10. https://modrinth.com/datapack/ketkets-player-shops
 
 Gamerules:
 1. players_sleeping_percentage 0
