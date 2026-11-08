@@ -11,9 +11,8 @@
       imports = [
         nix-minecraft.nixosModules.minecraft-servers
         ./mcserver.nix
-        sops-nix.nixosModules.sops
       ];
-
+      
       nixpkgs.overlays = [ nix-minecraft.overlay ];
     };
   };
